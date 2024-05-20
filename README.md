@@ -1,5 +1,5 @@
-# Hello!! Welcome to my GitHub profile.
-## My Name is Yasmin
+<h1>Hello! 👋</h1>
+<h2>Welcome to my GitHub profile. My Name is Yasmin.</h2>
 <!--
 **YasminTrembulack/YasminTrembulack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
