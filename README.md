@@ -40,10 +40,10 @@
   <h3>Contato</h3>
   <p>Você pode me encontrar online em:</p>
   <div>
-      <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank">
+      <a href="https://instagram.com/yasmin__0102" target="_blank">
           <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
       </a>
-      <a href = "mailto:contato@seu-usuário-aqui">
+      <a href = "mailto:yasmin.agostinho.012@gmail.com">
           <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Gmail">
       </a>
       <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank">
