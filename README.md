@@ -12,8 +12,7 @@
   <h2>Projetos</h2>
   <p>Aqui estão alguns dos meus projetos:</p>
   <ul>
-      <li><a href="#">Máquina de Vendas</a>: Breve descrição do projeto 1.</li>
-      <li><a href="#">Portfólio</a>: Breve descrição do projeto 2.</li>
+      <li><a href="https://github.com/loregbrw/VendingMachine">Máquina de Vendas</a></li>
   </ul>
 
   <h2>Conhecimentos</h2>
