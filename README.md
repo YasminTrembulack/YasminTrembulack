@@ -11,7 +11,6 @@
 
 
   <h2>Conhecimentos</h2>
-  <p>Alguns conteúdos que tenho conhecimento sobre:</p>
   <div>
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40" />
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"  width="40" height="40" />
@@ -25,14 +24,8 @@
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
   </div>
 
-  <h2>Estou atualmente aprendendo</h2>
-  <div>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-      <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  </div>
 
   <h3>Contato</h3>
-  <p>Você pode me encontrar online em:</p>
   <div>
       <a href="https://instagram.com/yasmin__0102" target="_blank">
           <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
