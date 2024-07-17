@@ -9,11 +9,6 @@
       </a>
   </div>
 
-  <h2>Projetos</h2>
-  <p>Aqui estão alguns dos meus projetos:</p>
-  <ul>
-      <li><a href="https://github.com/loregbrw/VendingMachine">Máquina de Vendas</a></li>
-  </ul>
 
   <h2>Conhecimentos</h2>
   <p>Alguns conteúdos que tenho conhecimento sobre:</p>
