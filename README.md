@@ -6,8 +6,7 @@
       <a href="https://github.com/YasminTrembulack">
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminTrembulack&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github"/>
-          <img loading="lazy" height="180em" src="./flor-de-cerejeira.png"  width="60" height="30"/>
-
+          <img loading="lazy" height="180em" src="./girassol.png.png"  width="65" height="65"/>
       </a>
   </div>
 
