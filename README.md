@@ -1,8 +1,8 @@
-<h1>Olá! 👋</h1>
-  <p>Bem-vindo ao meu perfil do GitHub. Sou Yasmin, e atualmente sou aprendiz de Soluções Digitais na Bosch. Aqui você
-      encontrará uma variedade de projetos em que estou trabalhando ou contribuindo, além de conteúdos que estou aprendendo. Fique à vontade para explorar!</p>
+<h1 align="center">Hi 👋, I'm Yasmin Trembulack</h1>
+<p align="center">Welcome to my GitHub profile. I'm Yasmin, and I'm currently a Digital Solutions apprentice at Bosch. Here you You'll find a variety of projects I'm working on or contributing to, as well as content I'm learning. Feel free to explore!</p>
+  
 
-  <div>
+  <div align="center">
       <a href="https://github.com/YasminTrembulack">
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=omni"/>
           <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminTrembulack&show_icons=true&locale=en&theme=omni&rank_icon=github"/>
@@ -10,8 +10,8 @@
   </div>
 
 
-  <h2>Conhecimentos</h2>
-  <div>
+  <h2 align="center">Skills</h2>
+  <div align="center">
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  width="40" height="40" />
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"  width="40" height="40" />
       <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width="40" height="40" />
@@ -26,8 +26,8 @@
   </div>
 
 
-  <h3>Contato</h3>
-  <div>
+  <h3 align="center">Contact</h3>
+  <div align="center">
       <a href="https://instagram.com/yasmin__0102" target="_blank">
           <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
       </a>
