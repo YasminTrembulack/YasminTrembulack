@@ -51,7 +51,7 @@
 
 
 ##
-![Snake animation](https://github.com/YasminTrembulack/YasminTrembulack/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/YasminTrembulack/YasminTrembulack/blob/output/github-contribution-grid-snake2.svg)
 
 
 
