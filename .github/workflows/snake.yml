@@ -18,8 +18,8 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: YasminTrembulack
           outputs: |
-            dist/github-snake.svg?color_snake=magenta&color_dots=#e1bee7,#ce93d8,#ba68c8,#ab47bc,#8e24aa
-            dist/github-snake-dark.svg?color_snake=magenta&color_dots=#e1bee7,#ce93d8,#ba68c8,#ab47bc,#8e24aa
-            dist/ocean.gif?color_snake=magenta&color_dots=#e1bee7,#ce93d8,#ba68c8,#ab47bc,#8e24aa
+            github-snake.svg?color_snake=magenta&color_dots=#e1bee7,#ce93d8,#ba68c8,#ab47bc,#8e24aa
+            github-snake-dark.svg?color_snake=magenta&color_dots=#e1bee7,#ce93d8,#ba68c8,#ab47bc,#8e24aa
+            ocean.gif?color_snake=magenta&color_dots=#e1bee7,#ce93d8,#ba68c8,#ab47bc,#8e24aa
