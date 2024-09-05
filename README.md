@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  💌 Contact me: ⤵️
+  Contact me: ⤵️
 </p>
 
 <p align="left">
@@ -45,17 +45,23 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
+## My Projects
 
+
+
+##
+
+<div >
+  <a href="https://github.com/YasminTrembulack">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminTrembulack&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github"/>        
+  </a>
+</div>
 
 
 
 
 <!-- 
-  <div >
-      <a href="https://github.com/YasminTrembulack">
-          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-          <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminTrembulack&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github"/>
-      </a>
-  </div>
+  
 -->
 
