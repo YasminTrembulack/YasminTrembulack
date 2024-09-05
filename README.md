@@ -1,5 +1,5 @@
 <h1 align="left">
- <img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&color=B546DB&vCenter=true&width=500&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Yasmin+Trembulack" alt="Typing SVG" /></img>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=500&color=B546DB&vCenter=true&width=500&height=70&lines=Hello!+%F0%9F%91%8B;I'm+Yasmin+Trembulack" /></img>
 </h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
