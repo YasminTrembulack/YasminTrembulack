@@ -9,6 +9,19 @@
 <samp/>
  <br/><br/>
 
+<!-- 
+ ```JS
+import Desenvolvedor from YasminTrembulack;
+
+class Skills extends Desenvolvedor {
+  linguagens = [ "C#", "C", "Python", "Java" ];
+  bibliotecas = [ "React", "JavaScript", "HTML5" ];
+  frameworks = [ "Spring", "Flask", "Django", "Node.js" ];
+  databases = [ "Microsoft SQL Server", "MySQL", "MongoDB" ];
+}
+
+```
+-->
 
 <p>Programming Languages</p>
 <p align="left">
@@ -67,7 +80,6 @@
 
 <!-- 
 
-![snake](https://github.com/YasminTrembulack/YasminTrembulack/blob/main/github-contribution-grid-snake.svg)
 <div >
   <a href="https://github.com/YasminTrembulack">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
