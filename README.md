@@ -51,17 +51,18 @@
 
 ##
 
+
+
+
+<!-- 
+
+![snake](https://github.com/YasminTrembulack/YasminTrembulack/blob/main/github-contribution-grid-snake.svg)
 <div >
   <a href="https://github.com/YasminTrembulack">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminTrembulack&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github"/>        
   </a>
 </div>
-
-
-
-
-<!-- 
   
 -->
 
