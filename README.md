@@ -56,9 +56,10 @@ class Skills extends Desenvolvedor {
 ## 🚀 My Projects
 <div align="left">
 
-[![VendingMachine](https://img.shields.io/badge/Repo-VendingMachine-9b59b6)](https://github.com/loregbrw/VendingMachine)
+[![VendingMachine](https://img.shields.io/badge/Repo-VendingMachine-eb771e)](https://github.com/loregbrw/VendingMachine)
 [![ETScheduleFlask](https://img.shields.io/badge/Repo-ETScheduleFlask-3498db)](https://github.com/AndreLuisPLuz/ETScheduleFlask)
-[![projetoFinalC](https://img.shields.io/badge/Repo-projetoFinalC-e74c3c)](https://github.com/aeduardamariaa/projetoFinalC)
+[![projetoFinalC](https://img.shields.io/badge/Repo-projetoFinalC-cf2357)](https://github.com/aeduardamariaa/projetoFinalC)
+[![SuperAutoMachines](https://img.shields.io/badge/Repo-SuperAutoMachines-be38d6)](https://github.com/YasminTrembulack/SuperAutoMachines)
 
  <!-- 
 <img href="https://github.com/loregbrw/VendingMachine" src="https://github-readme-stats.vercel.app/api/pin/?username=loregbrw&repo=VendingMachine&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
