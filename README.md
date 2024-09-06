@@ -54,6 +54,17 @@ class Skills extends Desenvolvedor {
 
 
 ## 🚀 My Projects
+<div align="center">
+<img href="https://github.com/loregbrw/VendingMachine" src="https://github-readme-stats.vercel.app/api/pin/?username=loregbrw&repo=VendingMachine&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="320" height="150"/>
+
+<img href="https://github.com/AndreLuisPLuz/ETScheduleFlask" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreLuisPLuz&repo=ETScheduleFlask&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="320" height="150"/>
+
+<img href="https://github.com/aeduardamariaa/projetoFinalC/tree/beta" src="https://github-readme-stats.vercel.app/api/pin/?username=aeduardamariaa&repo=projetoFinalC&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="320" height="150"/>
+<div/>
+
+
+
+
 
 
 ##
@@ -65,7 +76,7 @@ class Skills extends Desenvolvedor {
  </picture>   
 </h1>
 
-
+<div display="flex">
 <p align="right">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -75,13 +86,19 @@ class Skills extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-
-
+ <div align="left" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=transparent&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF&rank_icon=github" width="320" height="150"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/?username=YasminTrembulack&theme=transparent&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF&rank_icon=github" width="350" height="150"/>
+ <div/>
+<div/>
 
 <!-- 
 
 <div >
   <a href="https://github.com/YasminTrembulack">
+  
+   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=YasminTrembulack&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github"/>        
   </a>
