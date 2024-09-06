@@ -85,16 +85,18 @@ class Skills extends Desenvolvedor {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=transparent&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF&rank_icon=github" width="320" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/?username=YasminTrembulack&theme=transparent&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF&rank_icon=github" width="350" height="150"/>
 </div>
-
+<br/>
 <p align="center">
-  <a  title="Gmail">
-    <img href="#" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
+  <a title="Gmail" >
+    <img href="mailto:yasmin.agostinho.012@gmail.com" src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
   </a>
-  <a  title="LinkedIn">
-    <img href="#" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
+ <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a title="LinkedIn">
+    <img href="https://www.linkedin.com/in/yasmin-trembulack-agostinho-b11675261/" src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
   </a>
-  <a   title="Instagram">
-    <img href="#" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
+ <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a title="Instagram">
+    <img href="https://www.instagram.com/yasmin__0102/" src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
   </a>
 </p>
 
