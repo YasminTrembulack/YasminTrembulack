@@ -9,20 +9,6 @@
 <samp/>
  <br/><br/>
 
-<!-- 
- ```JS
-import Desenvolvedor from YasminTrembulack;
-
-class Skills extends Desenvolvedor {
-  linguagens = [ "C#", "C", "Python", "Java" ];
-  bibliotecas = [ "React", "JavaScript", "HTML5" ];
-  frameworks = [ "Spring", "Flask", "Django", "Node.js" ];
-  databases = [ "Microsoft SQL Server", "MySQL", "MongoDB" ];
-}
-
-```
--->
-
 <p>Programming Languages</p>
 <p align="left">
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -50,9 +36,6 @@ class Skills extends Desenvolvedor {
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-
-
-
 ## 🚀 My Projects
 <div align="left">
 
@@ -60,15 +43,6 @@ class Skills extends Desenvolvedor {
 [![ETScheduleFlask](https://img.shields.io/badge/Repo-ETScheduleFlask-3498db)](https://github.com/AndreLuisPLuz/ETScheduleFlask)
 [![projetoFinalC](https://img.shields.io/badge/Repo-projetoFinalC-cf2357)](https://github.com/aeduardamariaa/projetoFinalC)
 [![SuperAutoMachines](https://img.shields.io/badge/Repo-SuperAutoMachines-be38d6)](https://github.com/YasminTrembulack/SuperAutoMachines)
-
- <!-- 
-<img href="https://github.com/loregbrw/VendingMachine" src="https://github-readme-stats.vercel.app/api/pin/?username=loregbrw&repo=VendingMachine&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
-
-<img href="https://github.com/AndreLuisPLuz/ETScheduleFlask" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreLuisPLuz&repo=ETScheduleFlask&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
-
-<img href="https://github.com/aeduardamariaa/projetoFinalC/tree/beta" src="https://github-readme-stats.vercel.app/api/pin/?username=aeduardamariaa&repo=projetoFinalC&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
-<div/>
--->
 
 ##
 <h1 align="center">
@@ -88,19 +62,38 @@ class Skills extends Desenvolvedor {
 <br/>
 <p align="center">
   <a href="mailto:yasmin.agostinho.012@gmail.com" title="Gmail" >
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yasmin.agostinho.012@gmail.com" alt="Gmail"/>
   </a>
  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/yasmin-trembulack-agostinho-b11675261/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasmin-trembulack-agostinho-b11675261/" alt="LinkedIn"/>
   </a>
  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.instagram.com/yasmin__0102/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/yasmin__0102/" alt="Instagram"/>
   </a>
 </p>
 
 <!-- 
+
+ ```JS
+import Desenvolvedor from YasminTrembulack;
+
+class Skills extends Desenvolvedor {
+  linguagens = [ "C#", "C", "Python", "Java" ];
+  bibliotecas = [ "React", "JavaScript", "HTML5" ];
+  frameworks = [ "Spring", "Flask", "Django", "Node.js" ];
+  databases = [ "Microsoft SQL Server", "MySQL", "MongoDB" ];
+}
+
+```
+
+<img href="https://github.com/loregbrw/VendingMachine" src="https://github-readme-stats.vercel.app/api/pin/?username=loregbrw&repo=VendingMachine&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
+
+<img href="https://github.com/AndreLuisPLuz/ETScheduleFlask" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreLuisPLuz&repo=ETScheduleFlask&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
+
+<img href="https://github.com/aeduardamariaa/projetoFinalC/tree/beta" src="https://github-readme-stats.vercel.app/api/pin/?username=aeduardamariaa&repo=projetoFinalC&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
+<div/>
 
 <div >
   <a href="https://github.com/YasminTrembulack">
