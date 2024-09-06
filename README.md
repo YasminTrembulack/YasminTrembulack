@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="450px" width="450px" align="right">
 
 <samp align="left">
-  Welcome to my GitHub profile. I'm Yasmin, and I'm currently a Digital Solutions apprentice at Bosch. Here you You'll find a variety of projects I'm working on or contributing to, as well as content I'm learning. Feel free to explore!
+  Welcome to my GitHub profile! My name is Yasmin, and I currently work as a Digital Solutions apprentice at Bosch. I'm a curious person who loves challenges and is always on the lookout for new learning opportunities. Here, you'll find a variety of projects I'm working on or contributing to, as well as the content I'm exploring. Feel free to explore!
 <samp/>
  <br/><br/>
 
@@ -36,7 +36,7 @@
 </p>
 
 ## 🚀 My Projects
-<div align="left">
+<br/>
 
 [![VendingMachine](https://img.shields.io/badge/Repo-VendingMachine-eb771e)](https://github.com/loregbrw/VendingMachine)
 [![ETScheduleFlask](https://img.shields.io/badge/Repo-ETScheduleFlask-3498db)](https://github.com/AndreLuisPLuz/ETScheduleFlask)
@@ -61,16 +61,13 @@
 <br/>
 <p align="center">
   <a href="mailto:yasmin.agostinho.012@gmail.com" title="Gmail" >
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yasmin.agostinho.012@gmail.com" alt="Gmail"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yasmin.agostinho.012@gmail.com" alt="Gmail"/></a>
  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.linkedin.com/in/yasmin-trembulack-agostinho-b11675261/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasmin-trembulack-agostinho-b11675261/" alt="LinkedIn"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yasmin-trembulack-agostinho-b11675261/" alt="LinkedIn"/></a>
  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://www.instagram.com/yasmin__0102/" title="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/yasmin__0102/" alt="Instagram"/>
-  </a>
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/yasmin__0102/" alt="Instagram"/></a>
 </p>
 
 <!-- 
