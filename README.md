@@ -55,11 +55,11 @@ class Skills extends Desenvolvedor {
 
 ## 🚀 My Projects
 <div align="center">
-<img href="https://github.com/loregbrw/VendingMachine" src="https://github-readme-stats.vercel.app/api/pin/?username=loregbrw&repo=VendingMachine&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="320" height="150"/>
+<img href="https://github.com/loregbrw/VendingMachine" src="https://github-readme-stats.vercel.app/api/pin/?username=loregbrw&repo=VendingMachine&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
 
-<img href="https://github.com/AndreLuisPLuz/ETScheduleFlask" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreLuisPLuz&repo=ETScheduleFlask&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="320" height="150"/>
+<img href="https://github.com/AndreLuisPLuz/ETScheduleFlask" src="https://github-readme-stats.vercel.app/api/pin/?username=AndreLuisPLuz&repo=ETScheduleFlask&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
 
-<img href="https://github.com/aeduardamariaa/projetoFinalC/tree/beta" src="https://github-readme-stats.vercel.app/api/pin/?username=aeduardamariaa&repo=projetoFinalC&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="320" height="150"/>
+<img href="https://github.com/aeduardamariaa/projetoFinalC/tree/beta" src="https://github-readme-stats.vercel.app/api/pin/?username=aeduardamariaa&repo=projetoFinalC&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF" alt="Repo Card" width="300" height="150"/>
 <div/>
 
 
