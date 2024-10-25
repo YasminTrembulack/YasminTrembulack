@@ -20,6 +20,7 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 <p>Frameworks and Tools</p>
 <p align="left">
@@ -34,6 +35,14 @@
    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
+<p>IoT Technologies</p>
+<p align="left"> 
+ <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/ESP32-40A9F8?style=for-the-badge&logo=espressif&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/IoT%20Protocols-FF6F00?style=for-the-badge&logo=internet-explorer&logoColor=white" /> 
+</p>
+
 
 ## 🚀 My Projects
 <br/>
