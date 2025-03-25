@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="450px" width="450px" align="right">
 
 <samp align="left">
-  Welcome to my GitHub profile! My name is Yasmin, and I currently work as a Digital Solutions apprentice at Bosch. I'm a curious person who loves challenges and is always on the lookout for new learning opportunities. Here, you'll find a variety of projects I'm working on or contributing to, as well as the content I'm exploring. Feel free to explore!
+  Welcome to my GitHub profile! My name is Yasmin, and I currently work as Meio-Oficial at Bosch. I'm a curious person who loves challenges and is always on the lookout for new learning opportunities. Here, you'll find a variety of projects I'm working on or contributing to, as well as the content I'm exploring. Feel free to explore!
 <samp/>
  <br/><br/>
 
