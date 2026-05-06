@@ -67,7 +67,8 @@
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasminTrembulack&layout=compact&langs_count=7&theme=transparent&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF&rank_icon=github" width="320" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/?username=YasminTrembulack&theme=transparent&bg_color=0a0a0a&border_color=bd58e0&show_icons=true&icon_color=30A3DC&title_color=3ae3f2&text_color=FFF&rank_icon=github" width="350" height="150"/> -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YasminTrembulack&theme=transparent&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a><br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YasminTrembulack&theme=highcontrast&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+ <br/>
 <p align="center">
   <a href="mailto:yasmin.agostinho.012@gmail.com" title="Gmail" >
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yasmin.agostinho.012@gmail.com" alt="Gmail"/></a>
