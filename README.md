@@ -65,7 +65,7 @@
 <div display="flex">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YasminTrembulack&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=YasminTrembulack&theme=highcontrast&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat"/>
 <p align="center">
   <a href="mailto:yasmin.agostinho.012@gmail.com" title="Gmail" >
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:yasmin.agostinho.012@gmail.com" alt="Gmail"/></a>
